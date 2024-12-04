@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a9be2b33a50cabe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f04eddf21de2e1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a3d40b8672cece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/32 Bit Atrchitecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32 Bit Atrchitecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbf0cfc680ebd7d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "45436986ddea8bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d1fc7a4bd09cbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72a10f7d983d0395",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce62de02fc2993d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "618fa78202dc9267",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de1396daa37108a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48e853aff60e131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction to rust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction to rust"
+            }
+          },
+          {
+            "id": "e294bea1402ecf18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction to rust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction to rust"
+            }
+          },
+          {
+            "id": "1c7a949b9d3f6164",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a7275ca36a60e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction to rust.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction to rust"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d1fc7a4bd09cbea",
+  "lastOpenFiles": [
+    "Life-Manager/Daily-Routine.md",
+    "32 Bit Atrchitecture.md",
+    "Rust/Standard Library of rust.md",
+    "Rust/Rust.md",
+    "Rust/32 Bit Atrchitecture.md",
+    "Rust",
+    "2024-12-04.md",
+    "Life-Manager",
+    "Standard Library of rust.md",
+    "Rust.md"
+  ]
+}
